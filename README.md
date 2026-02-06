@@ -1,2 +1,2 @@
 # codealpha_tasks
-CodeAlpha Internship tasks 
+CodeAlpha AI  Internship tasks 
